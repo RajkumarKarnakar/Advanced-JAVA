@@ -1,0 +1,5 @@
+You can save this script as create_file.sh and make it executable with chmod +x create_file.sh.
+ Then you can run it with ./create_file.sh and see the output.
+
+The wc command stands for word count and can display the number of
+ characters, words, and lines in a file. The output of the wc command will look something like this:
